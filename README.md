@@ -59,6 +59,15 @@
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
+**Machine Learning & Data Science**
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+</p>
+
 ---
 
 ### 📌 Featured Repositories
